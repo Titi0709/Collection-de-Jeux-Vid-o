@@ -13,9 +13,9 @@ Projet réalisé en une après midi pour un TP EFREI (NoSQL / Fullstack).
 
 ---
 
-##  Démo en vidéo
-## 🎥 Démo vidéo
 
+## 🎥 Démo vidéo
+PS : Il faudra très certainement la télécharger, elle est trop lourde pour gitHub
 👉 [Voir la vidéo de démonstration](Demo/Demo.mp4)
 
 
